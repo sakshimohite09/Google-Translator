@@ -24,27 +24,6 @@ It enables users to translate text from one language to another by selecting sou
 - googletrans library
 
 ---
-
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/google-translator-tkinter.git
-
-   
-2. Navigate to the project folder:
-   cd google-translator-tkinter
-   Install required dependency:
-
-
-3. Install required dependency:
-   pip install googletrans==4.0.0-rc1
-   Run the application:
-
-
-4. Run the application:
-   python translator.py
-
    
 🖥️ How It Works
 1.Enter text in the Source Text box
