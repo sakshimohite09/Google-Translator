@@ -26,6 +26,7 @@ It enables users to translate text from one language to another by selecting sou
 ---
    
 🖥️ How It Works
+
 1.Enter text in the Source Text box
 
 2.Select the source language
